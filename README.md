@@ -26,6 +26,10 @@
 
 ##	4界面
 
+![用户管理](https://github.com/xuanbo/mini/blob/master/png/1.PNG)
+
+![用户管理-新增](https://github.com/xuanbo/mini/blob/master/png/2.PNG)
+
 
 ##  5.进度
 
